@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/Crazy-Candyman/Product-Card)
+- Live Site URL: [Live Site](https://crazy-candyman.github.io/Product-Card/)
 
 ## My process
 
@@ -43,6 +43,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- @ Media Query for Responsive Mobile
 
 ## Author
 
